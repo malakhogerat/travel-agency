@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html>
+<title>
+travel agency
+</title>
+
 <body>
 
 <p>Tuscany encompasses a pretty large area of central Italy, so I’m going to narrow this down to the Val d’Orcia region. Why? Because of its beautiful rolling hills and wonderful medieval hilltop towns. This area of Italy is pure heaven. Stretching from Siena in the north to Montepulciano in the east, and including Pienza, Montalcino, and Monticchiello, this area makes for a great road tour. Get lost on the cyprus lined back roads of the Val d’Orcia and you are bound to have your breath taken away by the beautiful rolling landscape of this region. Find an Agriturismo, rent a car for a few days, and discover this region of Italy that is famous for its wine and photographic beauty</p>
@@ -9,4 +13,8 @@ Florence is just right in so many ways. The city is just the right size to make 
 <p>This is a paragraph.</p>
 
 </body>
+<style>
+body {
+background: 
+<style>
 </html>
